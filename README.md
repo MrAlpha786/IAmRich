@@ -1,16 +1,13 @@
-# i_am_rich_flutter
+# I Am Rich
 
-A new Flutter project.
+This project is a part of a series of projects that I created while learning Flutter.
 
-## Getting Started
+This was a part of the [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.udemy.com/course/flutter-bootcamp-with-dart/) by [Dr. Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/).
 
-This project is a starting point for a Flutter application.
+### Check out all of my flutter projects [here.](https://github.com/MrAlpha786/flutter_projects)
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot](/../images/s01.png?raw=true "Screenshot")
