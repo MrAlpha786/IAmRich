@@ -29,7 +29,7 @@ jobs:
       with:
         channel: 'stable' # or 'dev' or 'beta'
     
-    - run: echo $KEY_JKS | base64 -d > android/app/upload.jks
+    - run: echo KEY_JKS | base64 -d > android/app/upload.jks
     - run: flutter pub get
     - run: flutter test
     - run: flutter build apk --release --split-per-abi
