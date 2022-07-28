@@ -19,8 +19,14 @@ class _MyAppState extends State<MyApp> {
 
     if (_showImage) {
       list.addAll([
-        Image.asset('images/chest.png', fit: BoxFit.fitWidth),
-        const SizedBox(height: 16.0),
+        Padding(
+          padding: const EdgeInsets.all(24.0),
+          child: Image.asset(
+            'images/chest.png',
+            fit: BoxFit.fitWidth,
+          ),
+        ),
+        const SizedBox(height: 8.0),
         ElevatedButton(
           onPressed: () {
             setState(() {
